@@ -1,7 +1,8 @@
 # PushUp_Logica_Reto01
+Problema:
+Desarrolle un codigo para acceder a determinados datos de la serie Fibonacci
 
 Funcionalidades:
-
 1. Entregar n-ésimo número de Fibonacci
 Calcula el n-ésimo número de la serie de Fibonacci.
 
